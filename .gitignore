@@ -2,7 +2,7 @@
 
 # dependencies
 
-
+.next
 /.pnp
 .pnp.*
 .yarn/*
