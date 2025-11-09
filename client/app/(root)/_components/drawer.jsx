@@ -4,7 +4,6 @@ import { navigationData } from '@/data/navigation'
 
 import {
   Box,
-  Divider,
   Drawer,
   List,
   ListItem,
@@ -13,12 +12,15 @@ import {
   ListItemText,
   Toolbar,
 } from '@mui/material'
-import InboxIcon from '@mui/icons-material/MoveToInbox'
-import MailIcon from '@mui/icons-material/Mail'
 import Link from 'next/link'
+import { usePathname } from 'next/navigation'
 
 const DrawerComponent = () => {
   const drawerWidth = 240
+
+  const pathname = usePathname()
+
+  console.log(pathname)
   return (
     <Drawer
       variant='permanent'
@@ -34,10 +36,12 @@ const DrawerComponent = () => {
       <Toolbar />
       <Box sx={{ overflow: 'auto' }}>
         <List>
-          {navigationData.map((item, index) => (
+          {navigationData.map((item) => (
             <Link key={item.id} href={item.href}>
               <ListItem disablePadding>
-                <ListItemButton>
+                <ListItemButton
+                  className={pathname === item.href && 'nav-active'}
+                >
                   <ListItemIcon>{item.icon}</ListItemIcon>
                   <ListItemText primary={item.label} />
                 </ListItemButton>

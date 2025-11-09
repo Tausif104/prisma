@@ -151,18 +151,17 @@ const handleDelete = async (id)=>{
 };
 function DataTableProducts(t0) {
     const $ = (0, __TURBOPACK__imported__module__$5b$project$5d2f$node_modules$2f$next$2f$dist$2f$compiled$2f$react$2f$compiler$2d$runtime$2e$js__$5b$app$2d$client$5d$__$28$ecmascript$29$__["c"])(7);
-    if ($[0] !== "d469ceec9ceb7fa7807ad84b702d7006a7186950b6e76f3105fee9dc25fa2cc0") {
+    if ($[0] !== "a88663d240c3c7d1793bf76bfbb02f35e7df9bd64cd5a5acbbdb5bfc154bbe38") {
         for(let $i = 0; $i < 7; $i += 1){
             $[$i] = Symbol.for("react.memo_cache_sentinel");
         }
-        $[0] = "d469ceec9ceb7fa7807ad84b702d7006a7186950b6e76f3105fee9dc25fa2cc0";
+        $[0] = "a88663d240c3c7d1793bf76bfbb02f35e7df9bd64cd5a5acbbdb5bfc154bbe38";
     }
     const { data } = t0;
     let t1;
     if ($[1] === Symbol.for("react.memo_cache_sentinel")) {
         t1 = {
-            height: "auto",
-            width: "100%"
+            height: "auto"
         };
         $[1] = t1;
     } else {
@@ -189,7 +188,8 @@ function DataTableProducts(t0) {
     let t4;
     if ($[4] === Symbol.for("react.memo_cache_sentinel")) {
         t4 = {
-            border: 0
+            border: 0,
+            width: "auto"
         };
         $[4] = t4;
     } else {

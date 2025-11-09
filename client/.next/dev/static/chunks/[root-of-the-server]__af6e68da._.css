@@ -157,4 +157,8 @@ a {
   display: flex;
 }
 
+.nav-active svg, .nav-active span {
+  color: #1976d2;
+}
+
 /*# sourceMappingURL=%5Broot-of-the-server%5D__af6e68da._.css.map*/

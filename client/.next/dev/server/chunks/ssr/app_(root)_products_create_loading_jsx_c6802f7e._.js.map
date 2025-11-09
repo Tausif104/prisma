@@ -2,5 +2,5 @@
   "version": 3,
   "sources": [],
   "sections": [
-    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/products/create/loading.jsx"],"sourcesContent":["import CircularProgress from '@mui/material/CircularProgress'\nimport Box from '@mui/material/Box'\n\nexport default function CircularIndeterminate() {\n  return (\n    <Box sx={{ display: 'flex' }}>\n      <CircularProgress />\n    </Box>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACE,8OAAC,iKAAG;QAAC,IAAI;YAAE,SAAS;QAAO;kBACzB,cAAA,8OAAC,2LAAgB;;;;;;;;;;AAGvB","debugId":null}}]
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/prisma/client/app/%28root%29/products/create/loading.jsx"],"sourcesContent":["import CircularProgress from '@mui/material/CircularProgress'\nimport Box from '@mui/material/Box'\n\nexport default function CircularIndeterminate() {\n  return (\n    <Box sx={{ display: 'flex' }}>\n      <CircularProgress />\n    </Box>\n  )\n}\n"],"names":[],"mappings":";;;;;AAAA;AACA;;;;AAEe,SAAS;IACtB,qBACE,8OAAC,iKAAG;QAAC,IAAI;YAAE,SAAS;QAAO;kBACzB,cAAA,8OAAC,2LAAgB;;;;;;;;;;AAGvB","debugId":null}}]
 }

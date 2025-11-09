@@ -69,3 +69,8 @@ a {
   align-items: center;
   height: 100%;
 }
+
+.nav-active svg,
+.nav-active span {
+  color: #1976d2;
+}

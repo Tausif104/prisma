@@ -70,14 +70,14 @@ const handleDelete = async (id) => {
 
 export default function DataTableProducts({ data }) {
   return (
-    <Paper sx={{ height: 'auto', width: '100%' }}>
+    <Paper sx={{ height: 'auto' }}>
       <DataGrid
         rows={data}
         columns={columns}
         initialState={{ pagination: { paginationModel } }}
         pageSizeOptions={[10, 20]}
         checkboxSelection
-        sx={{ border: 0 }}
+        sx={{ border: 0, width: 'auto' }}
       />
     </Paper>
   )
