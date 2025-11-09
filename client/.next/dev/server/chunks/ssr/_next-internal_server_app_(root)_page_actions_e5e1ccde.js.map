@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/.next-internal/server/app/%28root%29/page/actions.js%20%28server%20actions%20loader%29"],"sourcesContent":["export {default as '403861852ebcc17356420a9ce8775793e7ce435bb9'} from 'ACTIONS_MODULE0'\nexport {metadata as '7f9524686c355cba58eaa3615cfb78f1950e1ba76f'} from 'ACTIONS_MODULE0'\n"],"names":[],"mappings":";AAAA","debugId":null}}]
+}

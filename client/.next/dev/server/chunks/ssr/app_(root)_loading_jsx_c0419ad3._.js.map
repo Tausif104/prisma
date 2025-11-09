@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/loading.jsx"],"sourcesContent":["const Loading = () => {\n  return <h1>Loading...</h1>\n}\n\nexport default Loading\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,UAAU;IACd,qBAAO,8OAAC;kBAAG;;;;;;AACb;uCAEe","debugId":null}}]
+}

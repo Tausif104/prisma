@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/products/page.jsx"],"sourcesContent":["import { getUsers } from '@/actions/user.actions'\n\nimport DataTableUsers from './_components/datatable-users'\nimport { Button } from '@mui/material'\nimport Link from 'next/link'\n\nconst ProductPage = async () => {\n  const users = await getUsers()\n\n  return (\n    <>\n      <div className='page-header'>\n        <h1 className='page-heading'>Users</h1>\n        <Button variant='contained'>\n          <Link href='/create'>Create User</Link>\n        </Button>\n      </div>\n      <DataTableUsers data={users.users} />\n    </>\n  )\n}\n\nexport default ProductPage\n"],"names":[],"mappings":";;;;;AAAA;;;;;;AAGA;AACA;;;;;;AAEA,MAAM,cAAc;IAClB,MAAM,QAAQ,MAAM,IAAA,sIAAQ;IAE5B,qBACE;;0BACE,8OAAC;gBAAI,WAAU;;kCACb,8OAAC;wBAAG,WAAU;kCAAe;;;;;;kCAC7B,8OAAC,2MAAM;wBAAC,SAAQ;kCACd,cAAA,8OAAC,0LAAI;4BAAC,MAAK;sCAAU;;;;;;;;;;;;;;;;;0BAGzB,8OAAC;gBAAe,MAAM,MAAM,KAAK;;;;;;;;AAGvC;uCAEe","debugId":null}}]
+}

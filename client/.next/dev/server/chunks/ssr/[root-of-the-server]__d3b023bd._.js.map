@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 22, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/products/page.jsx"],"sourcesContent":["const ProductListingPage = () => {\n  return <>Products</>\n}\n\nexport default ProductListingPage\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,qBAAqB;IACzB,qBAAO;kBAAE;;AACX;uCAEe","debugId":null}}]
+}

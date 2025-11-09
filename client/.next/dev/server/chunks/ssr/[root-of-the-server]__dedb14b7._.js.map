@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/products/%5Bid%5D/edit/page.jsx"],"sourcesContent":["const EditProduct = async ({ params }) => {\n  const { id } = await params\n\n  return (\n    <>\n      <div className='create-user-form'>\n        <h1>Edit User</h1>\n        {id}\n      </div>\n    </>\n  )\n}\n\nexport default EditProduct\n"],"names":[],"mappings":";;;;;;AAAA,MAAM,cAAc,OAAO,EAAE,MAAM,EAAE;IACnC,MAAM,EAAE,EAAE,EAAE,GAAG,MAAM;IAErB,qBACE;kBACE,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;8BAAG;;;;;;gBACH;;;;;;;;AAIT;uCAEe","debugId":null}}]
+}

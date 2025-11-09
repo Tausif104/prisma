@@ -1,0 +1,80 @@
+{
+  "node": {
+    "7f0289fe8b4ef790b13f52f6e55870d3ee7f7a75a8": {
+      "workers": {
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/create/page": "rsc"
+      },
+      "exportedName": "deleteUser",
+      "filename": "actions/user.actions.js"
+    },
+    "7f3a65ac450d2d4fab040a223f6e46dceaed576140": {
+      "workers": {
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/create/page": "rsc"
+      },
+      "exportedName": "createUser",
+      "filename": "actions/user.actions.js"
+    },
+    "7f7c842f09423bd3a1f492e58a2c40f34bd7867bdf": {
+      "workers": {
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUsers",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/create/page": "rsc"
+      },
+      "exportedName": "getUsers",
+      "filename": "actions/user.actions.js"
+    },
+    "7fbe8c514cf71408b24e125c5b4ba392f0e11f94de": {
+      "workers": {
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/create/page": "rsc"
+      },
+      "exportedName": "updateUser",
+      "filename": "actions/user.actions.js"
+    },
+    "7fe17eb3df5ee9b88b5804413f273ea7fdfc6f0e79": {
+      "workers": {
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserDetails",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/create/page": "rsc"
+      },
+      "exportedName": "getUserDetails",
+      "filename": "actions/user.actions.js"
+    }
+  },
+  "edge": {}
+}

@@ -1,0 +1,9 @@
+{
+  "/(root)/[id]/edit/page": "app/(root)/[id]/edit/page.js",
+  "/(root)/create/page": "app/(root)/create/page.js",
+  "/(root)/page": "app/(root)/page.js",
+  "/(root)/products/[id]/edit/page": "app/(root)/products/[id]/edit/page.js",
+  "/(root)/products/create/page": "app/(root)/products/create/page.js",
+  "/(root)/products/page": "app/(root)/products/page.js",
+  "/_not-found/page": "app/_not-found/page.js"
+}

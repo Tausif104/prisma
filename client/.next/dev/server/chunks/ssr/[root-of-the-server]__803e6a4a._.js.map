@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 26, "column": 0}, "map": {"version":3,"sources":["file:///Users/tausif/Desktop/dev/client/app/%28root%29/create/page.jsx"],"sourcesContent":["import { TextField, Button } from '@mui/material'\n\nconst CreateUserPage = () => {\n  return (\n    <>\n      <div className='create-user-form'>\n        <h1>Create User</h1>\n        <form action='' className='form-wrapper'>\n          <TextField label='Name' variant='outlined' />\n          <TextField label='Email' variant='outlined' />\n          <Button type='submit' variant='contained'>\n            Create\n          </Button>\n        </form>\n      </div>\n    </>\n  )\n}\n\nexport default CreateUserPage\n"],"names":[],"mappings":";;;;;AAAA;AAAA;;;AAEA,MAAM,iBAAiB;IACrB,qBACE;kBACE,cAAA,8OAAC;YAAI,WAAU;;8BACb,8OAAC;8BAAG;;;;;;8BACJ,8OAAC;oBAAK,QAAO;oBAAG,WAAU;;sCACxB,8OAAC,uNAAS;4BAAC,OAAM;4BAAO,SAAQ;;;;;;sCAChC,8OAAC,uNAAS;4BAAC,OAAM;4BAAQ,SAAQ;;;;;;sCACjC,8OAAC,2MAAM;4BAAC,MAAK;4BAAS,SAAQ;sCAAY;;;;;;;;;;;;;;;;;;;AAOpD;uCAEe","debugId":null}}]
+}

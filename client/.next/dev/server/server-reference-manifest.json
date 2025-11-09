@@ -1,0 +1,238 @@
+{
+  "node": {
+    "7f0289fe8b4ef790b13f52f6e55870d3ee7f7a75a8": {
+      "workers": {
+        "app/(root)/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/[id]/edit/page": "rsc",
+        "app/(root)/create/page": "rsc",
+        "app/(root)/page": "action-browser",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/user.actions.js",
+      "exportedName": "deleteUser"
+    },
+    "7f3a65ac450d2d4fab040a223f6e46dceaed576140": {
+      "workers": {
+        "app/(root)/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/[id]/edit/page": "rsc",
+        "app/(root)/create/page": "rsc",
+        "app/(root)/page": "rsc",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/user.actions.js",
+      "exportedName": "createUser"
+    },
+    "7f7c842f09423bd3a1f492e58a2c40f34bd7867bdf": {
+      "workers": {
+        "app/(root)/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUsers",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUsers",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUsers",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUsers",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/[id]/edit/page": "rsc",
+        "app/(root)/create/page": "rsc",
+        "app/(root)/page": "rsc",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/user.actions.js",
+      "exportedName": "getUsers"
+    },
+    "7fbe8c514cf71408b24e125c5b4ba392f0e11f94de": {
+      "workers": {
+        "app/(root)/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "updateUser",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/[id]/edit/page": "action-browser",
+        "app/(root)/create/page": "rsc",
+        "app/(root)/page": "rsc",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/user.actions.js",
+      "exportedName": "updateUser"
+    },
+    "7fe17eb3df5ee9b88b5804413f273ea7fdfc6f0e79": {
+      "workers": {
+        "app/(root)/[id]/edit/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/[id]/edit/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserDetails",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserDetails",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserDetails",
+          "filename": "actions/user.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getUserDetails",
+          "filename": "actions/user.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/[id]/edit/page": "rsc",
+        "app/(root)/create/page": "rsc",
+        "app/(root)/page": "rsc",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/user.actions.js",
+      "exportedName": "getUserDetails"
+    },
+    "7f4859df46d1dd63ca4808119eef3c304f9f3a5205": {
+      "workers": {
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "deleteProduct",
+          "filename": "actions/product.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/products/page": "action-browser"
+      },
+      "filename": "actions/product.actions.js",
+      "exportedName": "deleteProduct"
+    },
+    "7f49a14ef5b74770d4295320d863005f6d6209a616": {
+      "workers": {
+        "app/(root)/products/create/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/create/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createProduct",
+          "filename": "actions/product.actions.js"
+        },
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "createProduct",
+          "filename": "actions/product.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/products/create/page": "action-browser",
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/product.actions.js",
+      "exportedName": "createProduct"
+    },
+    "7fb88f6f1990afe4ecdc592f504424dc8a4c418b63": {
+      "workers": {
+        "app/(root)/products/page": {
+          "moduleId": "[project]/.next-internal/server/app/(root)/products/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/user.actions.js [app-rsc] (ecmascript)\", ACTIONS_MODULE1 => \"[project]/actions/product.actions.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false,
+          "exportedName": "getProducts",
+          "filename": "actions/product.actions.js"
+        }
+      },
+      "layer": {
+        "app/(root)/products/page": "rsc"
+      },
+      "filename": "actions/product.actions.js",
+      "exportedName": "getProducts"
+    }
+  },
+  "edge": {},
+  "encryptionKey": "H1KpuPRxcn9ymaCu2Y7rQrjSmFkCnkaJusNmlDRDoTc="
+}
